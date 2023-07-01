@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/e-learning-mini-react-app/static/css/main.c1ba9f93.css",
-    "main.js": "/e-learning-mini-react-app/static/js/main.7da4c4e8.js",
+    "main.js": "/e-learning-mini-react-app/static/js/main.92ee43fc.js",
     "static/js/787.46d98309.chunk.js": "/e-learning-mini-react-app/static/js/787.46d98309.chunk.js",
     "static/media/aboutus.jpg": "/e-learning-mini-react-app/static/media/aboutus.3dc998bf8e19e210139e.jpg",
     "static/media/undraw_web_developer_re_h7ie.svg": "/e-learning-mini-react-app/static/media/undraw_web_developer_re_h7ie.387140bec7e1508a737bdcf1c6e45a10.svg",
@@ -9,11 +9,11 @@
     "static/media/undraw_cloud_hosting_7xb1.svg": "/e-learning-mini-react-app/static/media/undraw_cloud_hosting_7xb1.573e24a85f68afdd9025fa8ac0808d01.svg",
     "index.html": "/e-learning-mini-react-app/index.html",
     "main.c1ba9f93.css.map": "/e-learning-mini-react-app/static/css/main.c1ba9f93.css.map",
-    "main.7da4c4e8.js.map": "/e-learning-mini-react-app/static/js/main.7da4c4e8.js.map",
+    "main.92ee43fc.js.map": "/e-learning-mini-react-app/static/js/main.92ee43fc.js.map",
     "787.46d98309.chunk.js.map": "/e-learning-mini-react-app/static/js/787.46d98309.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c1ba9f93.css",
-    "static/js/main.7da4c4e8.js"
+    "static/js/main.92ee43fc.js"
   ]
 }
