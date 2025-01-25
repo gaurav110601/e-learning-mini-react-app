@@ -40,7 +40,7 @@ Features 🚀 Home Page Upon visiting the site, users are greeted with a welcome
 
 
 
-<img src="/src/image.jpg"/>
+<img src="/src/image.jpeg"/>
 
 
 <br><br>
